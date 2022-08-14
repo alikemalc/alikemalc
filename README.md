@@ -2,27 +2,22 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+Guys!;I'm+Eray+Demircioglu!;I'm+a+Software+Engineer!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
-<p><img align="right" src="https://github.com/eraydmrcoglu/eraydmrcoglu/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif" alt="eraydmrcoglu" /></p>
+
 
 
 - 🌱 I’m currently learning Front-end and Back-end Web Development
 
-- 📫 How to reach me **c.eray@hotmail.com**
+- 📫 How to reach me **alikemalc3@outlook.com**
 
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/eraydemircioglu/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/alikemalc3/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="eraydemircioglu" height="30" width="40"/></a>
-  <a href="https://stackoverflow.com/users/17813458/eraydmrcoglu" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/Social/stack-overflow.svg"
-      alt="eraydmrcoglu" height="30" width="40" /></a>
-  <a href="	https://medium.com/@eraydmrcoglu" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/medium.svg"
-      alt="eraydmrcoglu" height="30" width="40" /></a>
+  
       
 </p>
 <br>
